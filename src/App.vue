@@ -19,7 +19,8 @@ export default {
   data () {
     return { links: [
       {route: 'Home', name: 'Home'},
-      'About'
+      'About',
+      'Greet'
     ]}
   }
 }
